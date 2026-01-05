@@ -207,7 +207,7 @@
     }
     </script>
 
-<!--<script>
+<script>
 
     document.addEventListener('DOMContentLoaded', function () {
         const submitBtn = document.getElementById('downloadbrochurebtn');
@@ -215,17 +215,9 @@
         const courseForm = document.getElementById('enquiry-form');
 
         submitBtn.addEventListener('click', function (event) {
-            const selectedCourse = courseSelect.value;
-
-            // Validate if the course is selected
-            if (!selectedCourse) {
-                alert('Please select a course before submitting the form.');
-                event.preventDefault(); // Prevent form submission
-                return;
-            }
 
             // Open the corresponding PDF
-            const pdfFileName = `assets/img/Rushford_DBA.pdf`;
+            const pdfFileName = `assets/img/SSBM+Brochure.pdf`;
             window.open(pdfFileName, '_blank');
 
             // Form submits to mail.php automatically because there is no `event.preventDefault()` here
@@ -234,5 +226,5 @@
         // Ensure the form submits to mail.php
         courseForm.setAttribute('action', 'mail.php');
     });
-</script>-->
+</script>
   
