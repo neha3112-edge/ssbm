@@ -61,5 +61,32 @@ document.addEventListener('DOMContentLoaded', function () {
 </script>
 <?php endif; ?>
 		 <?php include __DIR__ . '/components/footer.php';?>
+
+		 <script>
+      function openPopup(popupId) {
+        document.getElementById(popupId).style.display = 'flex';
+      }
+
+      // Function to close a popup
+      function closePopup(popupId) {
+        document.getElementById(popupId).style.display = 'none';
+      }
+
+      // Add event listeners for all "Enquire Now" buttons
+      const enquireButtons = document.querySelectorAll('.enquireNowBtn');
+      enquireButtons.forEach(function (button) {
+        button.addEventListener('click', function () {
+          openPopup('enquirePopup');
+        });
+      });
+
+      // Add event listeners for all "Download Brochure" buttons
+      const brochureButtons = document.querySelectorAll('.downloadBrochureBtn');
+      brochureButtons.forEach(function (button) {
+        button.addEventListener('click', function () {
+          openPopup('brochurePopup');
+        });
+      });
+   </script>
 	</body>
 </html>

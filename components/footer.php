@@ -5,10 +5,10 @@
     <div class="container">
     <div class="footer-section">
             <div class="footer-column"><br>
-                <img src="assets/img/ssbm-logo-webp.webp" alt="logo-img" width="50%"/><br><br>
+                <a href="https://ssbm.distanceeducationschool.in/"><img src="assets/img/ssbm-logo-webp.webp" alt="logo-img" width="50%"/></a><br><br>
                   <h2 style="font-size:30px;">Got a Query ?<br> Let Us Guide You</h2>
-               
-<!-- <button class="enquireNowBtn">Enquire Now</button> -->
+               <br>
+<button class="enquireNowBtn">Enquire Now</button>
               
             </div>
             <div class="footer-column">
