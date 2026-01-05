@@ -21,13 +21,16 @@ $accordionData = [
        <div class="banner">
            <div class="banner-info">
             <p class="t1">Advancing Global Business Leadership</p>
-            <h1 style="color:#000;">Online DBA</h1>
+            <h1 style="color:#fad350;">Online DBA</h1>
             <h2>GLOBAL DOCTOR OF BUSINESS ADMINISTRATION</h2><br>
             <p>Take your leadership journey into your hands with top-notch Swiss quality education that is designed for working professionals. This Online SSBM Doctorate is for students seeking greater opportunities and wanting to improve the real business world.</p>
          <br>
-            <p>*100% Online Learning <br>
-              *Worldwide circle with a DBA Degree<br>
-              * 36 Months
+            <p>
+              <ul>
+                <li><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2026 Fonticons, Inc.--><path d="M128 96C92.7 96 64 124.7 64 160L64 400L128 400L128 160L512 160L512 400L576 400L576 160C576 124.7 547.3 96 512 96L128 96zM19.2 448C8.6 448 0 456.6 0 467.2C0 509.6 34.4 544 76.8 544L563.2 544C605.6 544 640 509.6 640 467.2C640 456.6 631.4 448 620.8 448L19.2 448z"/></svg> 100% Online Learning </li>
+              <li><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2026 Fonticons, Inc.--><path d="M415.9 344L225 344C227.9 408.5 242.2 467.9 262.5 511.4C273.9 535.9 286.2 553.2 297.6 563.8C308.8 574.3 316.5 576 320.5 576C324.5 576 332.2 574.3 343.4 563.8C354.8 553.2 367.1 535.8 378.5 511.4C398.8 467.9 413.1 408.5 416 344zM224.9 296L415.8 296C413 231.5 398.7 172.1 378.4 128.6C367 104.2 354.7 86.8 343.3 76.2C332.1 65.7 324.4 64 320.4 64C316.4 64 308.7 65.7 297.5 76.2C286.1 86.8 273.8 104.2 262.4 128.6C242.1 172.1 227.8 231.5 224.9 296zM176.9 296C180.4 210.4 202.5 130.9 234.8 78.7C142.7 111.3 74.9 195.2 65.5 296L176.9 296zM65.5 344C74.9 444.8 142.7 528.7 234.8 561.3C202.5 509.1 180.4 429.6 176.9 344L65.5 344zM463.9 344C460.4 429.6 438.3 509.1 406 561.3C498.1 528.6 565.9 444.8 575.3 344L463.9 344zM575.3 296C565.9 195.2 498.1 111.3 406 78.7C438.3 130.9 460.4 210.4 463.9 296L575.3 296z"/></svg> Worldwide circle with a DBA Degree</li>
+              <li><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2026 Fonticons, Inc.--><path d="M224 64C206.3 64 192 78.3 192 96L192 128L160 128C124.7 128 96 156.7 96 192L96 240L544 240L544 192C544 156.7 515.3 128 480 128L448 128L448 96C448 78.3 433.7 64 416 64C398.3 64 384 78.3 384 96L384 128L256 128L256 96C256 78.3 241.7 64 224 64zM96 288L96 480C96 515.3 124.7 544 160 544L480 544C515.3 544 544 515.3 544 480L544 288L96 288z"/></svg> 36 Months</li>
+</ul>
             </p>   
           <br>
             <button class="downloadBrochureBtn" style="color: white; background-color: black;  border: none;">Download Brochure <i class="fa fa-download" style="color:#fff;"></i></button>
@@ -53,12 +56,41 @@ $accordionData = [
       <h2>Course <span class="green">Overview</span></h2><br>
       <p>The Online SSBM DBA program offers a strong path with many silent features. The SSBM University not only offers a well-recognised degree program but also includes PwC India’s Board Advisory Certification, with patent-to-idea guidance, where Swiss expert faculty guide learners in conducting practical research and turning their ideas into theory. SSBM Doctorate online course also offers support in research, publishing, and leadership development for working professionals. The learner also takes advantage of practical boardroom skills enhancement, expert mentorship, global publishing opportunities, and allows them to interact with elite networks. The SSBM DBA online program offers the mixture of academic depth with real-world application, helping professionals increase their strategic decision-making and help themselves establish an influential leader. Students after taking the SSBM DBA admission can also expect a major salary increase. 
         </p>
-<p>
-<br>*Eligibility - Bachelor's degree with 5 years of experience or a master's degree
-<br>*Approvals - ACBSP, BAC, CHEA
-<br>*Specialisations- 20+ Specialisations 
-<br>*Degree - Doctorate</p>
+<div class="overview_lists">
 
+<div class="overview_list_inner">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2026 Fonticons, Inc.--><path d="M320 64C461.4 64 576 178.6 576 320C576 461.4 461.4 576 320 576C178.6 576 64 461.4 64 320C64 178.6 178.6 64 320 64zM296 184L296 320C296 328 300 335.5 306.7 340L402.7 404C413.7 411.4 428.6 408.4 436 397.3C443.4 386.2 440.4 371.4 429.3 364L344 307.2L344 184C344 170.7 333.3 160 320 160C306.7 160 296 170.7 296 184z"/></svg>
+<div class="head_inner">
+  <h3>Eligibility</h3>
+  <p>Bachelor's degree with 5 years of experience or a master's degree</p>
+</div>
+</div>
+
+<div class="overview_list_inner">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2026 Fonticons, Inc.--><path d="M416 64C433.7 64 448 78.3 448 96L448 128L480 128C515.3 128 544 156.7 544 192L544 480C544 515.3 515.3 544 480 544L160 544C124.7 544 96 515.3 96 480L96 192C96 156.7 124.7 128 160 128L192 128L192 96C192 78.3 206.3 64 224 64C241.7 64 256 78.3 256 96L256 128L384 128L384 96C384 78.3 398.3 64 416 64zM438 225.7C427.3 217.9 412.3 220.3 404.5 231L285.1 395.2L233 343.1C223.6 333.7 208.4 333.7 199.1 343.1C189.8 352.5 189.7 367.7 199.1 377L271.1 449C276.1 454 283 456.5 289.9 456C296.8 455.5 303.3 451.9 307.4 446.2L443.3 259.2C451.1 248.5 448.7 233.5 438 225.7z"/></svg>
+<div class="head_inner">
+  <h3>Approvals</h3>
+  <p>ACBSP, BAC, CHEA</p>
+</div>
+</div>
+
+<div class="overview_list_inner">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2026 Fonticons, Inc.--><path d="M320 216C368.6 216 408 176.6 408 128C408 79.4 368.6 40 320 40C271.4 40 232 79.4 232 128C232 176.6 271.4 216 320 216zM320 514.7L320 365.4C336.3 358.6 352.9 351.7 369.7 344.7C408.7 328.5 450.5 320.1 492.8 320.1L512 320.1L512 480.1L492.8 480.1C433.7 480.1 375.1 491.8 320.5 514.6L320 514.8zM320 296L294.9 285.5C248.1 266 197.9 256 147.2 256L112 256C85.5 256 64 277.5 64 304L64 496C64 522.5 85.5 544 112 544L147.2 544C197.9 544 248.1 554 294.9 573.5L307.7 578.8C315.6 582.1 324.4 582.1 332.3 578.8L345.1 573.5C391.9 554 442.1 544 492.8 544L528 544C554.5 544 576 522.5 576 496L576 304C576 277.5 554.5 256 528 256L492.8 256C442.1 256 391.9 266 345.1 285.5L320 296z"/></svg>
+<div class="head_inner">
+  <h3>Specialisations</h3>
+  <p>20+ Specialisations</p>
+</div>
+</div>
+
+<div class="overview_list_inner">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2026 Fonticons, Inc.--><path d="M80 259.8L289.2 345.9C299 349.9 309.4 352 320 352C330.6 352 341 349.9 350.8 345.9L593.2 246.1C602.2 242.4 608 233.7 608 224C608 214.3 602.2 205.6 593.2 201.9L350.8 102.1C341 98.1 330.6 96 320 96C309.4 96 299 98.1 289.2 102.1L46.8 201.9C37.8 205.6 32 214.3 32 224L32 520C32 533.3 42.7 544 56 544C69.3 544 80 533.3 80 520L80 259.8zM128 331.5L128 448C128 501 214 544 320 544C426 544 512 501 512 448L512 331.4L369.1 390.3C353.5 396.7 336.9 400 320 400C303.1 400 286.5 396.7 270.9 390.3L128 331.4z"/></svg>
+<div class="head_inner">
+  <h3>Degree</h3>
+  <p>Doctorate</p>
+</div>
+</div>
+
+</div>
 <br>
 <br>
  <div>
@@ -101,7 +133,7 @@ $accordionData = [
 <div class="course-info">
    <div id="sliderA" class="owl-carousel">
     <div class="slide">
-        <img src="assets/img/widely-accepted-credit-system.webp" class="img-responsive">
+        <img src="assets/img/Global-and-international.jpg" class="img-responsive">
         <div class="cr-info">
         <h2>Global and International Management</h2>
 		<p> With the SSBM Online DBA program student can learn leadership skills and develop the skills to manage multinational teams, global operations, and prepare for advance role in global business.
@@ -112,7 +144,7 @@ $accordionData = [
     </div>
 
        <div class="slide">
-        <img src="assets/img/global-exposure-in-paris.webp" class="img-responsive">
+        <img src="assets/img/Cybersecurity.jpg" class="img-responsive">
        
         <div class="cr-info">
         <h2>Cybersecurity Management</h2>
@@ -124,7 +156,7 @@ $accordionData = [
     </div>
 
     <div class="slide">
-        <img src="assets/img/fully-flexible-online-format.webp" class="img-responsive">
+        <img src="assets/img/HR.jpg" class="img-responsive">
 
         <div class="cr-info">
         <h2>Human Resources Management</h2>
@@ -136,7 +168,7 @@ $accordionData = [
     </div>
 
      <div class="slide">
-        <img src="assets/img/cost-effective-and-flexible-payment.webp"class="img-responsive">
+        <img src="assets/img/Tax-Management.png"class="img-responsive">
  
         <div class="cr-info">
         <h2>Tax Management</h2>
@@ -149,7 +181,7 @@ $accordionData = [
     </div>
 
      <div class="slide">
-        <img src="assets/img/research-oriented-learning-resources.webp" class="img-responsive">
+        <img src="assets/img/Finance-and-Banking.png" class="img-responsive">
         
         <div class="cr-info">
         <h2> Finance and Banking </h2>
@@ -162,7 +194,7 @@ $accordionData = [
 
 
      <div class="slide">
-        <img src="assets/img/Diverse-cohort.webp" class="img-responsive">
+        <img src="assets/img/Marketing.png" class="img-responsive">
       
         <div class="cr-info">
         <h2>Marketing</h2>
@@ -174,7 +206,7 @@ $accordionData = [
     </div>
 
      <div class="slide">
-        <img src="assets/img/research-oriented-learning-resources.webp" class="img-responsive">
+        <img src="assets/img/Operations-Management.png" class="img-responsive">
         
         <div class="cr-info">
         <h2>Operations Management</h2>
@@ -186,7 +218,7 @@ $accordionData = [
     </div>
 
      <div class="slide">
-        <img src="assets/img/research-oriented-learning-resources.webp" class="img-responsive">
+        <img src="assets/img/Strategic-Management.png" class="img-responsive">
         
         <div class="cr-info">
         <h2>Strategic Management</h2>
@@ -198,7 +230,7 @@ $accordionData = [
     </div>
 
      <div class="slide">
-        <img src="assets/img/research-oriented-learning-resources.webp" class="img-responsive">
+        <img src="assets/img/Entrepreneurship.png" class="img-responsive">
         
         <div class="cr-info">
         <h2> Entrepreneurship </h2>
@@ -211,7 +243,7 @@ $accordionData = [
     </div>
 
      <div class="slide">
-        <img src="assets/img/research-oriented-learning-resources.webp" class="img-responsive">
+        <img src="assets/img/IT-Management.png" class="img-responsive">
         
         <div class="cr-info">
         <h2> IT Management</h2>
@@ -223,7 +255,7 @@ $accordionData = [
     </div>
 
      <div class="slide">
-        <img src="assets/img/research-oriented-learning-resources.webp" class="img-responsive">
+        <img src="assets/img/Energy-Management.png" class="img-responsive">
         
         <div class="cr-info">
         <h2> Energy Management</h2>
@@ -235,7 +267,7 @@ $accordionData = [
     </div>
 
      <div class="slide">
-        <img src="assets/img/research-oriented-learning-resources.webp" class="img-responsive">
+        <img src="assets/img/Health-Care-Management.png" class="img-responsive">
         
         <div class="cr-info">
         <h2> Health Care Management
@@ -249,7 +281,7 @@ $accordionData = [
     </div>
 
      <div class="slide">
-        <img src="assets/img/research-oriented-learning-resources.webp" class="img-responsive">
+        <img src="assets/img/Data-Science.png" class="img-responsive">
         
         <div class="cr-info">
         <h2>Data Science</h2>
@@ -261,7 +293,7 @@ $accordionData = [
     </div>
 
      <div class="slide">
-        <img src="assets/img/research-oriented-learning-resources.webp" class="img-responsive">
+        <img src="assets/img/Machine-Learning.png" class="img-responsive">
         
         <div class="cr-info">
         <h2>Machine Learning</h2>
@@ -273,7 +305,7 @@ $accordionData = [
     </div>
 
      <div class="slide">
-        <img src="assets/img/research-oriented-learning-resources.webp" class="img-responsive">
+        <img src="assets/img/Finance.png" class="img-responsive">
         
         <div class="cr-info">
         <h2> Finance</h2>
@@ -285,7 +317,7 @@ $accordionData = [
     </div>
 
      <div class="slide">
-        <img src="assets/img/research-oriented-learning-resources.webp" class="img-responsive">
+        <img src="assets/img/International-Business-Leadership.png" class="img-responsive">
         
         <div class="cr-info">
         <h2> International Business Leadership</h2>
@@ -297,7 +329,7 @@ $accordionData = [
     </div>
 
      <div class="slide">
-        <img src="assets/img/research-oriented-learning-resources.webp" class="img-responsive">
+        <img src="assets/img/Global-Supply-Chain-Management.png" class="img-responsive">
         
         <div class="cr-info">
         <h2>Global Supply Chain Management</h2>
@@ -309,7 +341,7 @@ $accordionData = [
     </div>
 
      <div class="slide">
-        <img src="assets/img/research-oriented-learning-resources.webp" class="img-responsive">
+        <img src="assets/img/Accounting.png" class="img-responsive">
         
         <div class="cr-info">
         <h2>Accounting</h2>
@@ -321,7 +353,7 @@ $accordionData = [
     </div>
 
      <div class="slide">
-        <img src="assets/img/research-oriented-learning-resources.webp" class="img-responsive">
+        <img src="assets/img/AML-Compliance.png" class="img-responsive">
         
         <div class="cr-info">
         <h2>AML Compliance</h2>
@@ -348,26 +380,26 @@ $accordionData = [
     <div class="container">
     <div class="ach">
             <div class="ac1">
-      <i class="fa fa-users" style="font-size:30px!important;"></i>
+      <i class="fa fa-users" style="font-size:40px!important;"></i>
                 <h1>7700</h1>
                 <h3> Alumni</h3>
             </div>
 
             <div class="ac1">
-               <i class="fa fa-globe" style="font-size:30px!important;"></i>
+               <i class="fa fa-globe" style="font-size:40px!important;"></i>
                 <h1>160+</h1>
                 <h3> Countries </h3>
             </div>
 
 
             <div class="ac1">
-          <i class="fa fa-trophy" style="font-size:30px!important;"></i>
+          <i class="fa fa-trophy" style="font-size:40px!important;"></i>
                 <h1>170+</h1>
                 <h3> Renowned </h3>
             </div>
 
             <div class="ac1">
-                <i class="fa fa-star" style="font-size:30px!important;"></i>
+                <i class="fa fa-star" style="font-size:40px!important;"></i>
                 <h1>5</h1>
                 <h3>Stars for online learning</h3>
             </div>

@@ -26,30 +26,25 @@
 
         <select name="course" class="form-control" id="courseSelect" required>
             <option value="" selected disabled>Select Couse</option>
-		     <option value="DBA">DBA -Global Doctor of Business Administration</option>
+		    <option value="Global and International Management">Global and International Management</option>
+            <option value="Cybersecurity Management">Cybersecurity Management</option>
+            <option value="Human Resources Management">Human Resources Management</option>
+            <option value="Finance and Banking">Finance and Banking</option>
+            <option value="Marketing">Marketing</option>
+            <option value="Operations Management">Operations Management</option>
+            <option value="Strategic Management">Strategic Management</option>
+            <option value="Entrepreneurship">Entrepreneurship </option>
+            <option value="IT Management">IT Management</option>
+            <option value="Energy Management">Energy Management</option>
+            <option value="Health Care Management">Health Care Management </option>
+            <option value="Data Science">Data Science</option>
+            <option value="Finance">Finance</option>
+            <option value="International Business Leadership">International Business Leadership </option>
+            <option value="Global Supply Chain Management">Global Supply Chain Management</option>
+            <option value="Accounting">Accounting</option>
+            <option value="AML Compliance">AML Compliance </option>
         </select>
 
-        <select name="course" class="form-control" id="courseSelect" required>
-            <option value="" selected disabled>Preferreds specialization</option>
-		     <option value="DBA">Global and International Management
-            <option value="DBA">Cybersecurity Management</option>
-            <option value="DBA">Human Resources Management</option>
-            <option value="DBA">Finance and Banking</option>
-            <option value="DBA">Marketing</option>
-            <option value="DBA">Operations Management</option>
-            <option value="DBA">Strategic Management</option>
-            <option value="DBA">Entrepreneurship </option>
-            <option value="DBA">IT Management</option>
-            <option value="DBA">Energy Management</option>
-            <option value="DBA">Health Care Management </option>
-            <option value="DBA">Data Science</option>
-            <option value="DBA">Finance</option>
-            <option value="DBA">International Business Leadership </option>
-            <option value="DBA">Global Supply Chain Management</option>
-            <option value="DBA">Accounting</option>
-            <option value="DBA">AML Compliance </option>
-</option>
-        </select>
         <!-- <label>State <span class="required">*</span></label> -->
         <select name="state" class="form-control" id="state" required>
             <option value="" hidden>Select Your State</option>

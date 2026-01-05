@@ -283,7 +283,7 @@ p {
 	gap: 20px;
 }
 .ab1{padding: 50px 70px;}
-.about-cnt button{background-color:var(--yellow-color); padding: 10px 20px; border-style: none;color: #000; border-radius: 5px;}
+.about-cnt button{background-color:var(--yellow-color); padding: 10px 20px; border-style: none; border-radius: 5px;}
 .accreited {
 	border: 1px solid #000 !important;
 	display: grid;
@@ -313,7 +313,7 @@ p {
 	padding: 5px;
 }
 
- #sample-degree button{background-color:var(--yellow-color); padding: 10px 20px; border-style: none;color: #000; border-radius: 5px;}
+ #sample-degree button{background-color:var(--yellow-color); padding: 10px 20px; border-style: none; border-radius: 5px;}
  #copilot{background-color: #08202D; color: #fff;}
  .copilot-info{display: grid;grid-template-columns: repeat(2, 1fr); align-items: center!important;}
 
@@ -522,7 +522,7 @@ p {
 }
 	.ach {
 		display: grid;
-		grid-template-columns: repeat(2, 1fr);
+		grid-template-columns: repeat(1, 1fr);
 		
 	}
 	.ac1{border: none;}
@@ -736,10 +736,9 @@ p {
         align-items: center;
     }
 
-    .border-box {
-        width: 100%;
-        max-width: 500px;
-    }
+	.logo-group {
+	flex-direction: column;
+}
 
     .main-title {
         font-size: 1.8rem;
@@ -830,3 +829,74 @@ p {
 }
 
 
+.banner-info svg {
+	width: 20px;
+	fill: #fff;
+}
+
+.banner-info ul {
+  list-style-type: none;
+  padding: 0px;
+}
+.banner-info ul li {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 3px 0px;
+}
+
+
+.overview_list_inner svg {
+	width: 40px;
+	fill: #c11f28;
+}
+.overview_lists {
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  gap: 20px;
+  padding-top: 20px;
+}
+.overview_list_inner {
+	display: grid;
+	grid-template-columns: 15% 85%;
+	align-items: start;
+	justify-content: flex-start;
+	gap: 10px;
+	background: #f1f1f1;
+	padding: 10px;
+}
+.head_inner {
+  text-align: left;
+}
+.head_inner h3 {
+	margin-bottom: 5px;
+}
+
+@media only screen and (max-width:1024px){
+	.overview_lists {
+  grid-template-columns: repeat(2,1fr);
+}
+}
+
+@media only screen and (max-width:768px){
+	.overview_lists {
+  grid-template-columns: repeat(1,1fr);
+}
+}
+
+.achievement h1 {
+	margin: 10px 0px;
+	color: #c11f28;
+}
+.achievement h3 {
+	margin: 10px 0px;
+	color: #fff;
+}
+.achievement i {
+	color: #fff;
+}
+
+.footer-column img {
+	background: #fff;
+	padding: 5px;
+}

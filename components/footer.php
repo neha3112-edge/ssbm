@@ -35,8 +35,8 @@
             </div>
             <div class="footer-column">
                 <h2>QUICK LINKS</h2><br>
-				<p><a href="#" style="text-decoration:none;">Accreditations</a></p>
-				<p><a href="#" style="text-decoration:none;">Advantages</a></p>
+				<p><a href="#about" style="text-decoration:none;">About</a></p>
+				<p><a href="#whychoose" style="text-decoration:none;">Courses</a></p>
 				<p><a href="#faqs" style="text-decoration:none;">FAQ</a></p>
                 <br/>
             </div> 

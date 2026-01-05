@@ -104,7 +104,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <li><a href="#hero-section">Home</a></li>
             <li><a href="#whychoose">Courses</a></li>
             <li><a href="#about">About</a></li>
-                <li><a href="#benefits">why Choose ?</a></li>
+                <li><a href="#benefits">Why Choose ?</a></li>
                 
                 <li><a href="#faqs">FAQ</a></li>
             </ul>
