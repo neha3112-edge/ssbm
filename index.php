@@ -61,8 +61,8 @@ $accordionData = [
 <div class="overview_list_inner">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2026 Fonticons, Inc.--><path d="M320 64C461.4 64 576 178.6 576 320C576 461.4 461.4 576 320 576C178.6 576 64 461.4 64 320C64 178.6 178.6 64 320 64zM296 184L296 320C296 328 300 335.5 306.7 340L402.7 404C413.7 411.4 428.6 408.4 436 397.3C443.4 386.2 440.4 371.4 429.3 364L344 307.2L344 184C344 170.7 333.3 160 320 160C306.7 160 296 170.7 296 184z"/></svg>
 <div class="head_inner">
-  <h3>Eligibility</h3>
-  <p>Bachelor's degree with 5 years of experience or a master's degree</p>
+  <h3>Duration</h3>
+  <p>2-3 Years</p>
 </div>
 </div>
 
@@ -136,8 +136,7 @@ $accordionData = [
         <img src="assets/img/Global-and-international.jpg" class="img-responsive">
         <div class="cr-info">
         <h2>Global and International Management</h2>
-		<p> With the SSBM Online DBA program student can learn leadership skills and develop the skills to manage multinational teams, global operations, and prepare for advance role in global business.
-</p>
+		<p>  SSBM Online DBA program help in learning leadership to develop the skills in manage multinational teams and get advance role.
         <hr>
         <button class="enquireNowBtn">Apply Now</button>
         </div>
@@ -247,7 +246,7 @@ $accordionData = [
         
         <div class="cr-info">
         <h2> IT Management</h2>
-		<p>Understand IT governance, digital transformation, and technology leadership necessary for modern organizations investing in SSBM DBA Admission-aligned executive competencies.
+		<p>Understand IT governance, digital transformation, and the technology necessary for modern organizations investing in SSBM DBA Admission-aligned executive.
 </p>
         <hr>
         <button class="enquireNowBtn">Apply Now</button>
@@ -297,7 +296,7 @@ $accordionData = [
         
         <div class="cr-info">
         <h2>Machine Learning</h2>
-		<p>Machine learning is one of the in-demand industries, and now students can develop deeper knowledge in automation techniques and intelligent system design with the SSBM DBA course.
+		<p>Machine learning is one of the in-demand industries, and now students can develop deeper knowledge in automation techniques with the SSBM DBA course.
 </p>
         <hr>
         <button class="enquireNowBtn">Apply Now</button>
@@ -309,7 +308,7 @@ $accordionData = [
         
         <div class="cr-info">
         <h2> Finance</h2>
-		<p>Financial planning is very important in any industry, and SSBM DBA admission help student develop deep expertise in investment decision making, financial planning, and valuation techniques.
+		<p>Financial planning is very important in any industry, and SSBM DBA admission help student develop deep expertise in investment decision-making techniques.
 </p>
         <hr>
         <button class="enquireNowBtn">Apply Now</button>
@@ -321,7 +320,7 @@ $accordionData = [
         
         <div class="cr-info">
         <h2> International Business Leadership</h2>
-		<p>With SSBM DBA, learn cross-cultural leadership, global communication, and organizational direction to navigate international expansion and multinational business growth.
+		<p>With SSBM DBA, learn cross-cultural leadership and global communication to navigate international expansion and multinational business growth.
 </p>
         <hr>
         <button class="enquireNowBtn">Apply Now</button>
