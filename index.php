@@ -106,17 +106,17 @@ $accordionData = [
 
     <div class="content-grid">
         <fieldset class="border-box">
-            <legend>Accreditations</legend>
+            <div class="custom_heading">Accreditations</div>
             <div class="logo-group">
-                <img src="assets/img/acbsp-p.png" alt="ACBSP">
+                <img class="img_large" src="assets/img/acbsp-p.png" alt="ACBSP">
                 <img src="assets/img/chea-logo.png" alt="CHEA">
-                <img src="assets/img/bac.png" alt="BAC">
+                <img class="img_large" src="assets/img/bac.png" alt="BAC">
             </div>
         </fieldset>
 
         <fieldset class="border-box">
-            <legend>Rankings</legend>
-            <div class="logo-group">
+            <div class="custom_heading">Rankings</div>
+            <div class="logo-group custom_img_group">
                 <img src="assets/img/ceoworld.png" alt="CEOWorld Magazine">
                 <img src="assets/img/postg.png" alt="Postgrad">
                 <img src="assets/img/swiss.png" alt="Study in Switzerland">
@@ -125,254 +125,237 @@ $accordionData = [
     </div>
 </section>
 
+
+
 <section id="whychoose">
-<div class="container">
-<center><h2>TOP ONLINE DBA <span class="green">SSBM DOCTORATE SPECIALIZATIONS</span></h2></center>
-<br>
-  
-<div class="course-info">
-   <div id="sliderA" class="owl-carousel">
-    <div class="slide">
-        <img src="assets/img/Global-and-international.jpg" class="img-responsive">
-        <div class="cr-info">
-        <h2>Global and International Management</h2>
-		<p>  SSBM Online DBA program help in learning leadership to develop the skills in manage multinational teams and get advance role.
-        <hr>
-        <button class="enquireNowBtn">Apply Now</button>
+  <div class="container">
+    <center>
+      <h2>TOP ONLINE DBA <span style="color:#c11f28;">SSBM DOCTORATE SPECIALIZATIONS</span></h2>
+    </center>
+    <br>
+
+    <div class="swiper sliderA">
+      <div class="swiper-wrapper">
+
+        <!-- Slide 1 -->
+        <div class="swiper-slide">
+          <img src="assets/img/Global-and-international.jpg">
+          <div class="cr-info">
+            <h2>Global and International Management</h2>
+            <p>SSBM Online DBA program helps develop leadership skills to manage multinational teams.</p>
+            <hr>
+            <button class="enquireNowBtn">Apply Now</button>
+          </div>
         </div>
-    </div>
 
-       <div class="slide">
-        <img src="assets/img/Cybersecurity.jpg" class="img-responsive">
-       
-        <div class="cr-info">
-        <h2>Cybersecurity Management</h2>
-		<p>With an online DBA degree student can learn to oversee cybersecurity frameworks, digital risk, and governance models, which help them develop strong cybersecurity skills. 
-</p>
-        <hr>
-        <button class="enquireNowBtn">Apply Now</button>
+        <!-- Slide 2 -->
+        <div class="swiper-slide">
+          <img src="assets/img/Cybersecurity.jpg">
+          <div class="cr-info">
+            <h2>Cybersecurity Management</h2>
+            <p>Learn to oversee cybersecurity frameworks, digital risk, and governance models.</p>
+            <hr>
+            <button class="enquireNowBtn">Apply Now</button>
+          </div>
         </div>
-    </div>
 
-    <div class="slide">
-        <img src="assets/img/HR.jpg" class="img-responsive">
-
-        <div class="cr-info">
-        <h2>Human Resources Management</h2>
-		<p>Through the SSBM doctorate curriculum, HRs can strengthen their expertise in HR planning and talent management, allowing them to develop a research-focused approach.
-</p>
-        <hr>
-        <button class="enquireNowBtn">Apply Now</button>
+        <!-- Slide 3 -->
+        <div class="swiper-slide">
+          <img src="assets/img/HR.jpg">
+          <div class="cr-info">
+            <h2>Human Resources Management</h2>
+            <p>Strengthen expertise in HR planning and talent management.</p>
+            <hr>
+            <button class="enquireNowBtn">Apply Now</button>
+          </div>
         </div>
-    </div>
 
-     <div class="slide">
-        <img src="assets/img/Tax-Management.png"class="img-responsive">
- 
-        <div class="cr-info">
-        <h2>Tax Management</h2>
-		<p>Gain practical understanding of corporate taxation, regulatory structures, and compliance systems often explored during the SSBM DBA Admission academic evaluation process.
-
-</p>
-        <hr>
-        <button class="enquireNowBtn">Apply Now</button>
+        <!-- Slide 4 -->
+        <div class="swiper-slide">
+          <img src="assets/img/Tax-Management.png">
+          <div class="cr-info">
+            <h2>Tax Management</h2>
+            <p>Gain practical understanding of corporate taxation and compliance systems.</p>
+            <hr>
+            <button class="enquireNowBtn">Apply Now</button>
+          </div>
         </div>
-    </div>
 
-     <div class="slide">
-        <img src="assets/img/Finance-and-Banking.png" class="img-responsive">
-        
-        <div class="cr-info">
-        <h2> Finance and Banking </h2>
-		<p>Master financial analysis, banking operations, and risk-based decision-making supported by globally relevant learning delivered through the flexible SSBM dba structure.
-</p>
-        <hr>
-        <button class="enquireNowBtn">Apply Now</button>
+        <!-- Slide 5 -->
+        <div class="swiper-slide">
+          <img src="assets/img/Finance-and-Banking.png">
+          <div class="cr-info">
+            <h2>Finance and Banking</h2>
+            <p>Master financial analysis, banking operations, and risk-based decision making.</p>
+            <hr>
+            <button class="enquireNowBtn">Apply Now</button>
+          </div>
         </div>
-    </div>
 
-
-     <div class="slide">
-        <img src="assets/img/Marketing.png" class="img-responsive">
-      
-        <div class="cr-info">
-        <h2>Marketing</h2>
-		<p>Explore digital branding, consumer behavior, and strategic marketing frameworks enriched by industry insights from experienced faculty at SSBM University.
-</p>
-        <hr>
-        <button class="enquireNowBtn">Apply Now</button>
+        <!-- Slide 6 -->
+        <div class="swiper-slide">
+          <img src="assets/img/Marketing.png">
+          <div class="cr-info">
+            <h2>Marketing</h2>
+            <p>Explore digital branding, consumer behavior, and strategic marketing frameworks.</p>
+            <hr>
+            <button class="enquireNowBtn">Apply Now</button>
+          </div>
         </div>
-    </div>
 
-     <div class="slide">
-        <img src="assets/img/Operations-Management.png" class="img-responsive">
-        
-        <div class="cr-info">
-        <h2>Operations Management</h2>
-		<p>Learn workflow optimization, process improvement, and resource efficiency strategies that form an important part of the SSBM doctorate learning experience.
-</p>
-        <hr>
-        <button class="enquireNowBtn">Apply Now</button>
+        <!-- Slide 7 -->
+        <div class="swiper-slide">
+          <img src="assets/img/Operations-Management.png">
+          <div class="cr-info">
+            <h2>Operations Management</h2>
+            <p>Learn workflow optimization and process improvement strategies.</p>
+            <hr>
+            <button class="enquireNowBtn">Apply Now</button>
+          </div>
         </div>
-    </div>
 
-     <div class="slide">
-        <img src="assets/img/Strategic-Management.png" class="img-responsive">
-        
-        <div class="cr-info">
-        <h2>Strategic Management</h2>
-		<p>Develop long-term strategies, evaluate competition, and guide organizational transformation through leadership-focused modules offered within the SSBM dba program.
-</p>
-        <hr>
-        <button class="enquireNowBtn">Apply Now</button>
+        <!-- Slide 8 -->
+        <div class="swiper-slide">
+          <img src="assets/img/Strategic-Management.png">
+          <div class="cr-info">
+            <h2>Strategic Management</h2>
+            <p>Develop long-term strategies and guide organizational transformation.</p>
+            <hr>
+            <button class="enquireNowBtn">Apply Now</button>
+          </div>
         </div>
-    </div>
 
-     <div class="slide">
-        <img src="assets/img/Entrepreneurship.png" class="img-responsive">
-        
-        <div class="cr-info">
-        <h2> Entrepreneurship </h2>
-		<p>Build entrepreneurial vision, opportunity evaluation skills, and innovative thinking taught under a structured academic pathway at SSBM University.
-
-</p>
-        <hr>
-        <button class="enquireNowBtn">Apply Now</button>
+        <!-- Slide 9 -->
+        <div class="swiper-slide">
+          <img src="assets/img/Entrepreneurship.png">
+          <div class="cr-info">
+            <h2>Entrepreneurship</h2>
+            <p>Build entrepreneurial vision and innovative thinking.</p>
+            <hr>
+            <button class="enquireNowBtn">Apply Now</button>
+          </div>
         </div>
-    </div>
 
-     <div class="slide">
-        <img src="assets/img/IT-Management.png" class="img-responsive">
-        
-        <div class="cr-info">
-        <h2> IT Management</h2>
-		<p>Understand IT governance, digital transformation, and the technology necessary for modern organizations investing in SSBM DBA Admission-aligned executive.
-</p>
-        <hr>
-        <button class="enquireNowBtn">Apply Now</button>
+        <!-- Slide 10 -->
+        <div class="swiper-slide">
+          <img src="assets/img/IT-Management.png">
+          <div class="cr-info">
+            <h2>IT Management</h2>
+            <p>Understand IT governance and digital transformation.</p>
+            <hr>
+            <button class="enquireNowBtn">Apply Now</button>
+          </div>
         </div>
-    </div>
 
-     <div class="slide">
-        <img src="assets/img/Energy-Management.png" class="img-responsive">
-        
-        <div class="cr-info">
-        <h2> Energy Management</h2>
-		<p>Study global energy systems, sustainability frameworks, and resource optimization models, preparing learners for senior roles in evolving energy markets worldwide.
-</p>
-        <hr>
-        <button class="enquireNowBtn">Apply Now</button>
+        <!-- Slide 11 -->
+        <div class="swiper-slide">
+          <img src="assets/img/Energy-Management.png">
+          <div class="cr-info">
+            <h2>Energy Management</h2>
+            <p>Study global energy systems and sustainability frameworks.</p>
+            <hr>
+            <button class="enquireNowBtn">Apply Now</button>
+          </div>
         </div>
-    </div>
 
-     <div class="slide">
-        <img src="assets/img/Health-Care-Management.png" class="img-responsive">
-        
-        <div class="cr-info">
-        <h2> Health Care Management
-</h2>
-		<p>Gain knowledge of healthcare operations, clinical systems, and leadership practices supporting effective decision-making in complex medical and hospital environments.
-
-</p>
-        <hr>
-        <button class="enquireNowBtn">Apply Now</button>
+        <!-- Slide 12 -->
+        <div class="swiper-slide">
+          <img src="assets/img/Health-Care-Management.png">
+          <div class="cr-info">
+            <h2>Health Care Management</h2>
+            <p>Gain knowledge of healthcare operations and leadership practices.</p>
+            <hr>
+            <button class="enquireNowBtn">Apply Now</button>
+          </div>
         </div>
-    </div>
 
-     <div class="slide">
-        <img src="assets/img/Data-Science.png" class="img-responsive">
-        
-        <div class="cr-info">
-        <h2>Data Science</h2>
-		<p>SSBM DBA help learner master their predictive analytics, data modeling, and interpretation skills, which are used across industries for strategic insights in decision-making. 
-</p>
-        <hr>
-        <button class="enquireNowBtn">Apply Now</button>
+        <!-- Slide 13 -->
+        <div class="swiper-slide">
+          <img src="assets/img/Data-Science.png">
+          <div class="cr-info">
+            <h2>Data Science</h2>
+            <p>Master predictive analytics, data modeling, and interpretation skills.</p>
+            <hr>
+            <button class="enquireNowBtn">Apply Now</button>
+          </div>
         </div>
-    </div>
 
-     <div class="slide">
-        <img src="assets/img/Machine-Learning.png" class="img-responsive">
-        
-        <div class="cr-info">
-        <h2>Machine Learning</h2>
-		<p>Machine learning is one of the in-demand industries, and now students can develop deeper knowledge in automation techniques with the SSBM DBA course.
-</p>
-        <hr>
-        <button class="enquireNowBtn">Apply Now</button>
+        <!-- Slide 14 -->
+        <div class="swiper-slide">
+          <img src="assets/img/Machine-Learning.png">
+          <div class="cr-info">
+            <h2>Machine Learning</h2>
+            <p>Develop deeper knowledge in automation techniques.</p>
+            <hr>
+            <button class="enquireNowBtn">Apply Now</button>
+          </div>
         </div>
-    </div>
 
-     <div class="slide">
-        <img src="assets/img/Finance.png" class="img-responsive">
-        
-        <div class="cr-info">
-        <h2> Finance</h2>
-		<p>Financial planning is very important in any industry, and SSBM DBA admission help student develop deep expertise in investment decision-making techniques.
-</p>
-        <hr>
-        <button class="enquireNowBtn">Apply Now</button>
+        <!-- Slide 15 -->
+        <div class="swiper-slide">
+          <img src="assets/img/Finance.png">
+          <div class="cr-info">
+            <h2>Finance</h2>
+            <p>Develop deep expertise in investment decision-making techniques.</p>
+            <hr>
+            <button class="enquireNowBtn">Apply Now</button>
+          </div>
         </div>
-    </div>
 
-     <div class="slide">
-        <img src="assets/img/International-Business-Leadership.png" class="img-responsive">
-        
-        <div class="cr-info">
-        <h2> International Business Leadership</h2>
-		<p>With SSBM DBA, learn cross-cultural leadership and global communication to navigate international expansion and multinational business growth.
-</p>
-        <hr>
-        <button class="enquireNowBtn">Apply Now</button>
+        <!-- Slide 16 -->
+        <div class="swiper-slide">
+          <img src="assets/img/International-Business-Leadership.png">
+          <div class="cr-info">
+            <h2>International Business Leadership</h2>
+            <p>Learn cross-cultural leadership and global communication.</p>
+            <hr>
+            <button class="enquireNowBtn">Apply Now</button>
+          </div>
         </div>
-    </div>
 
-     <div class="slide">
-        <img src="assets/img/Global-Supply-Chain-Management.png" class="img-responsive">
-        
-        <div class="cr-info">
-        <h2>Global Supply Chain Management</h2>
-		<p>With this specialization student can get an end-to-end understanding of supply chain strategy and prepare executives to lead an effective global supply chain network.
-</p>
-        <hr>
-        <button class="enquireNowBtn">Apply Now</button>
+        <!-- Slide 17 -->
+        <div class="swiper-slide">
+          <img src="assets/img/Global-Supply-Chain-Management.png">
+          <div class="cr-info">
+            <h2>Global Supply Chain Management</h2>
+            <p>Understand end-to-end global supply chain strategy.</p>
+            <hr>
+            <button class="enquireNowBtn">Apply Now</button>
+          </div>
         </div>
-    </div>
 
-     <div class="slide">
-        <img src="assets/img/Accounting.png" class="img-responsive">
-        
-        <div class="cr-info">
-        <h2>Accounting</h2>
-		<p>Students will learn financial reporting, auditing principles, compliance frameworks, and governance structures that support effective organizational performance.
-</p>
-        <hr>
-        <button class="enquireNowBtn">Apply Now</button>
+        <!-- Slide 18 -->
+        <div class="swiper-slide">
+          <img src="assets/img/Accounting.png">
+          <div class="cr-info">
+            <h2>Accounting</h2>
+            <p>Learn financial reporting, auditing, and compliance frameworks.</p>
+            <hr>
+            <button class="enquireNowBtn">Apply Now</button>
+          </div>
         </div>
-    </div>
 
-     <div class="slide">
-        <img src="assets/img/AML-Compliance.png" class="img-responsive">
-        
-        <div class="cr-info">
-        <h2>AML Compliance</h2>
-		<p>Study from the SSBM DBA about anti-money laundering regulations, monitoring systems, and risk management processes important for compliance roles in global financial institutions.
-</p>
-        <hr>
-        <button class="enquireNowBtn">Apply Now</button>
+        <!-- Slide 19 -->
+        <div class="swiper-slide">
+          <img src="assets/img/AML-Compliance.png">
+          <div class="cr-info">
+            <h2>AML Compliance</h2>
+            <p>Study anti-money laundering regulations and risk management processes.</p>
+            <hr>
+            <button class="enquireNowBtn">Apply Now</button>
+          </div>
         </div>
+
+      </div>
+      <br><br>
+
+      <!-- Pagination Dots -->
+      <div class="swiper-pagination"></div>
     </div>
-
-
-
-
-
-
-  
-    </div>
-</div>
-</div>
+  </div>
 </section>
+
+
 
 <div class="achievement">
    
@@ -399,8 +382,8 @@ $accordionData = [
 
             <div class="ac1">
                 <i class="fa fa-star" style="font-size:40px!important;"></i>
-                <h1>5</h1>
-                <h3>Stars for online learning</h3>
+                <h1>5 Star</h1>
+                <h3>Online learning</h3>
             </div>
         </div>
     </div></div>
@@ -569,33 +552,43 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script> -->
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 
- <script>
-  $(function(){
-    if (!$.fn.owlCarousel) {
-      console.error('Owl Carousel not loaded. Check the script include order.');
-      return;
+
+<script>
+new Swiper('.sliderA', {
+  loop: true,
+  spaceBetween: 20,
+
+  autoplay: {
+    delay: 2000,
+    disableOnInteraction: false,
+  },
+
+  pagination: {
+    el: '.swiper-pagination',
+    clickable: true,
+  },
+
+  breakpoints: {
+    0: {
+      slidesPerView: 1,   // Mobile
+    },
+    768: {
+      slidesPerView: 2,   // Tablet
+    },
+    1024: {
+      slidesPerView: 3,   // Desktop
     }
+  }
+});
+</script>
 
-    // Destroy if already initialized (safe re-init)
-    // if ($('#sliderA').hasClass('owl-loaded')) { $('#sliderA').trigger('destroy.owl.carousel'); }
 
 
-    // Slider A (different settings)
-    $('#sliderA').owlCarousel({
-      loop:true,
-      margin:20,
-      nav:false,
-      dots:true,
-      autoplay:true,
-      autoplayTimeout:2000,
-      responsive:{0:{ items:1 }, 600:{ items:1 }, 1000:{ items:1 }}
-    });
 
-   
-  });
-  </script>
+ 
 
 
 <script>

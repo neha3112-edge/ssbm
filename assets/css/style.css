@@ -465,7 +465,7 @@ p {
 }
 
 	#hero-section {
-		background-image: url("../img/header-mobile.webp");
+		background-image: url("../img/mobile-2-new.webp");
 		background-repeat: repeat(no-repeat);
 		background-size: cover;
 		padding: 60px;
@@ -512,7 +512,7 @@ p {
 		padding: 20px 0px;
 	}
 
-.banner-info{padding-bottom:220px!important;}
+.banner-info{padding-bottom:320px!important;}
 .downloadBrochureBtn {
 	border-style: none;
 	padding: 10px 20px;
@@ -522,7 +522,7 @@ p {
 }
 	.ach {
 		display: grid;
-		grid-template-columns: repeat(1, 1fr);
+		grid-template-columns: repeat(2, 1fr);
 		
 	}
 	.ac1{border: none;}
@@ -705,6 +705,7 @@ p {
     display: flex;
     align-items: center;
     justify-content: space-around;
+	position: relative;
 }
 
 .border-box legend {
@@ -899,4 +900,52 @@ p {
 .footer-column img {
 	background: #fff;
 	padding: 5px;
+}
+
+
+
+@media only screen and (max-width:768px){
+	.img_large {
+	max-height: 100px !important;
+}
+.logo-group.custom_img_group img {
+	padding: 10px 0px;
+}
+.achievement h3 {
+	font-size: 18px;
+}
+}
+
+
+.custom_heading {
+	position: absolute;
+	top: -10px;
+	background: #f1f1f1;
+	padding: 0px 10px;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+
+.sliderA .swiper-pagination {
+  bottom: -10px;
+}
+
+.sliderA .swiper-pagination-bullet {
+  width: 10px;
+  height: 10px;
+  background: #ccc;
+  opacity: 1;
+}
+
+.sliderA .swiper-pagination-bullet-active {
+  background: #c11f28; /* green */
+}
+.swiper-slide {
+	padding: 0px !important;
+}
+.swiper-slide img {
+	height: 160px;
+	width: 100%;
+	object-fit: cover;
 }
