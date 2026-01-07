@@ -7,7 +7,7 @@ $accordionData = [
    ["title" => "Is the SSBM doctorate globally recognized?", "content" => "Yes, the SSBM doctorate is internationally recognized and follows high academic standards with strong industry relevance."],
    ["title" => "Who can apply for SSBM DBA Admission?", "content" => "Applicants typically need a postgraduate degree and relevant professional experience to qualify for SSBM DBA Admission."],
    ["title" => "How is the SSBM University online learning experience structured?", "content" => "SSBM University offers recorded lectures, live sessions, case studies, research supervision, and continuous academic support for online learners."],
-	["title" => " Does the program include practical industry exposure?", "content" => "Yes. The SSBM dba includes real-world projects, board simulations, research work, and industry interactions to strengthen practical learning."]
+	["title" => " Does the program include practical industry exposure?", "content" => "Yes. The SSBM DBA includes real-world projects, board simulations, research work, and industry interactions to strengthen practical learning."]
 ];
 ?>
 <?php include __DIR__ . '/components/popup.php'; ?>
@@ -472,7 +472,7 @@ $accordionData = [
   <div class="container_fluid">
     <div class="about-cnt">
       <div class="ab1">
-        <h2><span class="green">ABOUT ONLINE</span> SSBM GENEVA</h2><br>
+        <h2><span class="green">ABOUT ONLINE</span> SSBM</h2><br>
       
         <p>SSBM University, located in Switzerland, offer morden industry-accredited management courses. The institution helps students get a flexible higher education in online mode, which is specifically made for working professionals across the globe. Their digital learning curriculum offers interactive classes, real business case studies, international faculty access, and a properly structured research environment. 
 Students looking to take admission in SSBM DBA can develop practical knowledge, apply research and leadership skills that match the global business standards. As a globally known university who are offering executive and doctoral education support learners through personalised academic guidance, dedicated mentorship, and international networking opportunities.
@@ -497,7 +497,7 @@ Students looking to take admission in SSBM DBA can develop practical knowledge, 
            <h2>PWC DIRECTORSHIP &
 <span class="green">BOARD ADVISORY CERTIFICATE</span></h2><br>
        
-           <p>The PWc Board Advisory certificate is a specialised global program that is made for a professional who aims to transform their role to board level. The SSBM DBA university will get both certificates after the completion of its online DBA course. With PwC India, this program cultivates strategic confidence through live sessions, real-world simulations, and expert-led masterclasses. </p>
+           <p>The PWc Board Advisory certificate is a specialised global program that is made for a professional who aims to transform their role to board level. The student will get a SSBM DBA university will get both certificates after the completion of its online DBA course. With PwC India, this program cultivates strategic confidence through live sessions, real-world simulations, and expert-led masterclasses. </p>
            <br>
          
            <button class="enquireNowBtn">Get Degree </button>
