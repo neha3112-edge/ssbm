@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="icon" type="image/x-icon" href="assets/img/ssbm-fevicon.png"/>
-    <title>Online DBA GLOBAL DOCTOR OF BUSINESS ADMINISTRATION at SSBM </title>
-    <meta decription="Online DBA Course at ESGCI University | Doctorate in Business Administration. Find Online Course Fees, Eligibility and Admission Details 2025">
+    <title>SSBM DBA Online Degree | Swiss Doctorate, Fees Admission 2026 </title>
+    <meta name="description" decription="SSBM DBA online is a globally recognized SSBM doctorate from SSBM University. Check SSBM DBA admission, eligibility, fees & specializations.">
     <meta keyword="ssbm dba,SSBM DBA Admission,SSBM doctorate, SSBM university">
     <link rel="stylesheet" href="assets/css/common.css">
     <link rel="stylesheet" href="assets/css/navbar.css">
