@@ -47,7 +47,7 @@
 
 <div class="custom_floating_icons">
 <a href="tel:+918882357805"><img src="assets/img/call.png"></a>
-<a href="https://wa.me/918882357805"><img src="assets/img/whatsapp.png"></a>
+<a href="https://api.whatsapp.com/send?phone=918882357805"><img src="assets/img/whatsapp.png"></a>
 </div>
 
 
