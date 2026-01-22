@@ -33,13 +33,13 @@ $accordionData = [
 </ul>
             </p>   
           <br>
+          <div class="banner_custom_buttons">
             <button class="downloadBrochureBtn" style="color: white; background-color: black;  border: none;">Download Brochure <i class="fa fa-download" style="color:#fff;"></i></button>
+            <a href="tel:+918882357805" class="call_btn" style="color: white; background-color: black;  border: none;">+91 888 235 7805 <i class="fa fa-phone" style="color:#fff;"></i></a>
+          </div>
            </div>
 		
            <div class="banner-form">
-			  <!--    <div class="mb-view">
-			   <img src="assets/img/mobile-model.webp" width="300px">
-		   </div>-->
            <?php include __DIR__ . '/components/form.php'; ?>
            </div>
 

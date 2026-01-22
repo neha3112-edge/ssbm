@@ -142,7 +142,7 @@ p {
     text-transform: uppercase;
 }
 
-.fa{color: var(--yellow-color); font-size: 20px!important;}
+.fa{color: var(--yellow-color); font-size: 16px!important;}
 
 .achievement {
 	background-color:#000;
@@ -515,9 +515,9 @@ p {
 .banner-info{padding-bottom:320px!important;}
 .downloadBrochureBtn {
 	border-style: none;
-	padding: 10px 20px;
+	padding: 8px 14px;
 	color: #000;
-	font-size: 13px!important;
+	font-size: 11px !important;
 	border-radius: 5px;
 }
 	.ach {
@@ -948,4 +948,33 @@ p {
 	height: 160px;
 	width: 100%;
 	object-fit: cover;
+}
+
+
+.call_btn {
+	padding: 10px 20px;
+	border-radius: 5px;
+	text-decoration: navajowhite;
+}
+
+@media only screen and (max-width:768px){
+	.call_btn {
+	padding: 8px 14px;
+	font-size: 13px;
+}
+}
+
+.custom_floating_icons a img {
+  width: 30px;
+}
+.custom_floating_icons {
+  display: flex;
+  gap: 5px;
+  flex-direction: column;
+  position: fixed;
+  right: 0px;
+  top: 40%;
+  background: #fff;
+  padding: 8px 5px;
+  z-index: 999;
 }

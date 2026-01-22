@@ -38,15 +38,16 @@
 				<p><a href="#about" style="text-decoration:none;">About</a></p>
 				<p><a href="#whychoose" style="text-decoration:none;">Courses</a></p>
 				<p><a href="#faqs" style="text-decoration:none;">FAQ</a></p>
-                <br/>
+                <br/><br>
+                <a href="tel:+918882357805" class="call_btn" style="color: white; background-color: var(--yellow-color);  border: none;">+91 888 235 7805 <i class="fa fa-phone" style="color:#fff;"></i></a>
             </div> 
         </div>
-      
-        
-    
-   
-     
     </div>
+</div>
+
+<div class="custom_floating_icons">
+<a href="tel:+918882357805"><img src="assets/img/call.png"></a>
+<a href="https://wa.me/918882357805"><img src="assets/img/whatsapp.png"></a>
 </div>
 
 
